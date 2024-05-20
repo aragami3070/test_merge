@@ -11,5 +11,4 @@ int main(){
 	int b = 3;
 	cout << a * b << '\n';
 	cout << quick_math(a, b) << endl;
-
 }
