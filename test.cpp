@@ -8,7 +8,7 @@ int quick_math(int a, int b){
 
 int main(){
 	int a = 2;
-	int b = 3;
+	int b = 100500;
 	cout << a * b << '\n';
 	cout << quick_math(a, b) << endl;
 
