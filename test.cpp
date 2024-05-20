@@ -7,11 +7,8 @@ int quick_math(int a, int b){
 }
 
 int main(){
-<<<<<<< HEAD
 	int a = 1;
-=======
 	int b = 100500;
->>>>>>> merge_com
 	cout << a * b << '\n';
 	cout << quick_math(a, b) << endl;
 }
